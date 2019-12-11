@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+
+    <!-- List of cats-->
+    <dimen name="recycler_item_height_min">48dp</dimen>
+    <dimen name="recycler_spacing">2dp</dimen>
+
+    <!-- Cat detail -->
+    <dimen name="cat_detail_image_size">200dp</dimen>
+
+</resources>

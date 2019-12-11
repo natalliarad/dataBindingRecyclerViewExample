@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pretty cats</string>
+    <string name="description_format">%1$s\n\n%2$s</string>
+    <string name="cat_name">Порода кошки</string>
+    <string name="description_standard">Очень красивая порода</string>
+</resources>
